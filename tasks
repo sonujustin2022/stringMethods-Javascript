@@ -1,0 +1,12 @@
+// w.a.p to convert 'javascript developer' to 'Javascript Developer'
+
+// find out how time 'a' is present in 'abracadabra'
+
+// accept a password from user and validate it
+
+    // validations :-
+        //  1. min 8 chars
+        //  2. min 1 uppercase 
+        //  3. must include '%' in password
+
+// convert 'i am a js dev' to 'i-am-a-js-dev'
